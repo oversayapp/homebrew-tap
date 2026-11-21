@@ -1,6 +1,6 @@
 cask "oversay" do
-  version "0.4.0"
-  sha256 "444e6d2a876ee4f1e1ec1e717c7908e8a868006bcc9a730b2bd95e26c8c41b16"
+  version "0.5.0"
+  sha256 "53e51c40d9a2f9f2ea0cc52fbb6497cf76bbf6fe38115c5b1ff65ecf06d0da20"
 
   url "https://github.com/oversayapp/oversay/releases/download/v#{version}/Oversay_#{version}_universal.dmg"
   name "Oversay"
